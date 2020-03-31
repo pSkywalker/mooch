@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- <color name="background">#18B9FD</color> -->
+    <color name="background">#2999FB</color>
+
+    <color name="mainTextView">#FFFFFF</color>
+
+
+    <color name="authLoginFields">#7DC2FC</color>
+    <color name="authLoginFieldsText">#6D6D6D</color>
+
+    <color name="buttonBorder">#FFFFFF</color>
+
+    <color name="error">#FF0000</color>
+
+    <color name="colorPrimary">#2999FB</color>
+    <color name="colorPrimaryDark">#2999FB</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+</resources>

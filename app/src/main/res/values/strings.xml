@@ -1,0 +1,71 @@
+<resources>
+
+    <string name="facebook_app_id">484011448875011</string>
+    <string name="fb_login_protocol_scheme">fb484011448875011</string>
+
+
+    <string name="app_name">Mooch</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+
+    <string name="login">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="authFail">The email or password provided was incorrect!</string>
+
+    <string name="registerAccountLink">Need an account? <u>Register</u> </string>
+
+    <string name="or">OR</string>
+
+    <string name="loginWithFacebook">Login with Facebook</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="loginAccountLink">Have an account? <u>Login</u></string>
+    <string name="registerErrorMsg">Please provide a valid email and password </string>
+    <string name="emailTaken">Email is registed under another account!</string>
+    <string name="weakPassword">The password doesn\'t match the requirments. Make sure your password is more then 6 characters! </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="createGroup">Create Group</string>
+    <string name="groupName">Group Name</string>
+    <string name="addedFriends">Added Friends</string>
+    <string name="addFriends">Add Friends</string>
+    <string name="remove">Remove</string>
+    <string name="invite">Invite</string>
+    <string name="addFriend">Add</string>
+    <string name="next">Next</string>
+
+    <string name="groupNameingHeading">What is the group called?</string>
+    <string name="members">Members</string>
+
+
+    <string name="groupSettingsHeading">Group Details</string>
+
+    <string name="back">Back</string>
+
+    <string name="username">Username</string>
+    <string name="findUser">Find User</string>
+
+
+    <string name="preUserSearch">Use the search bar to find friends to add to your group!</string>
+    <string name="noUserResults">No Users found! Try searching again</string>
+
+
+
+</resources>

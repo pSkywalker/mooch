@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314923921896",
+    "firebase_url": "https://mooch-86d8b.firebaseio.com",
+    "project_id": "mooch-86d8b",
+    "storage_bucket": "mooch-86d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314923921896:android:160609a715c34ca4a3745d",
+        "android_client_info": {
+          "package_name": "com.app.mooch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314923921896-6ublu70hkphume67fn7ntfsnqabblail.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.mooch",
+            "certificate_hash": "a9d151dd13cbfe224c242a9b9c6f0570e9a9608d"
+          }
+        },
+        {
+          "client_id": "314923921896-ppki94k1tn7hje0e97stdopnbpe2qjmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPa8jQ9vfv2YKWJCoWopWcwL2YglJPfTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314923921896-ppki94k1tn7hje0e97stdopnbpe2qjmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
